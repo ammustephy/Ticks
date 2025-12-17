@@ -92213,11 +92213,11 @@ s($,"aTc","av5",()=>new A.G())
 r($,"aKz","arI",()=>{var q=new A.a8c()
 q.a2n($.av5())
 return q})
-s($,"aW5","aF7",()=>"https://todo-backend-production.up.railway.app/registration")
-s($,"aVY","aF1",()=>"https://todo-backend-production.up.railway.app/login")
-s($,"aVB","aER",()=>"https://todo-backend-production.up.railway.app/storeTodo")
-s($,"aVQ","aEY",()=>"https://todo-backend-production.up.railway.app/getUserTodoList")
-s($,"aVN","aEX",()=>"https://todo-backend-production.up.railway.app/deleteTodo")})();(function nativeSupport(){!function(){var s=function(a){var m={}
+s($,"aW5","aF7",()=>"https://todo-backend-production-a4b01.up.railway.appregistration")
+s($,"aVY","aF1",()=>"https://todo-backend-production-a4b01.up.railway.applogin")
+s($,"aVB","aER",()=>"https://todo-backend-production-a4b01.up.railway.appstoreTodo")
+s($,"aVQ","aEY",()=>"https://todo-backend-production-a4b01.up.railway.appgetUserTodoList")
+s($,"aVN","aEX",()=>"https://todo-backend-production-a4b01.up.railway.appdeleteTodo")})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
 v.getIsolateTag=function(a){return s("___dart_"+a+v.isolateTag)}
